@@ -1,1 +1,1 @@
-a failed vibecode project inspired by NewPipe using Piped API
+a failed vibecoded iOS app project inspired by NewPipe using Piped API
