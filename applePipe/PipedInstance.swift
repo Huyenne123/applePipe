@@ -29,6 +29,5 @@ public enum PipedInstances {
         PipedInstance(name: "lunar.icu", baseURL: URL(string: "https://piped-api.lunar.icu")!),
         PipedInstance(name: "privacydev.net", baseURL: URL(string: "https://api.piped.privacydev.net")!),
         PipedInstance(name: "projectsegfau.lt", baseURL: URL(string: "https://api.piped.projectsegfau.lt")!),
-        PipedInstance(name: "piped.yt", baseURL: URL(string: "https://api.piped.yt")!)
     ]
 }
